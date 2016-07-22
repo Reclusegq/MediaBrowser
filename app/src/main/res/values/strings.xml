@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageBrowser</string>
+
+    <string name="local_image">本地</string>
+    <string name="net_image">网络</string>
+    <string name="local_video">视频</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
